@@ -1,0 +1,7 @@
+print("================================================================")
+print("Nama                 : Maulana Abimanyu Pradana")
+print("NIM                  : 2605060051")
+print("Tempat Tanggal Lahir : Magelang, 10 Juni 2006")
+print("Jenis Kelamin        : Laki-laki")
+print("Hobi                 : Mendengarkan Musik, Main Game, Menggambar")
+print("================================================================")
